@@ -8,7 +8,7 @@ A relational database built entirely in SQL to manage event bookings for a publi
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=flat-square&logo=mysql)
 ![Database](https://img.shields.io/badge/Type-Relational%20Database-lightgrey?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
+
 
 ---
 
