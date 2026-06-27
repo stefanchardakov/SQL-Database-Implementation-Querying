@@ -90,5 +90,3 @@ mysql -u your_username -p < data/seed.sql
 ```
 
 ---
-
-**[Your Name]** · [LinkedIn](#) · [Portfolio](#)
