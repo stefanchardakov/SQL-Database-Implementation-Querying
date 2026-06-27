@@ -57,8 +57,3 @@ INNER JOIN EventType et ON e.EventTypeID = et.EventTypeID
 GROUP BY et.Description
 ORDER BY Total_Bookings DESC;
 ```
-
-Full query set in [`/queries`](./queries/).
-
----
-
