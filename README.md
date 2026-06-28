@@ -27,11 +27,7 @@ Eight normalised tables covering the full lifecycle of a library event.
 | `Feedback` | Post-event ratings (1–5) and comments |
 
 ---
-# 📚 Lantern Library — Event Management Database System
 
-A relational database system designed to manage events, bookings, members, staff, rooms, payments, and feedback for **Lantern Library**. Built entirely in **SQL (MySQL)**, the project demonstrates database design principles including schema creation, referential integrity, data population, and analytical querying.
-
----
 
 ## 📋 Table of Contents
 
