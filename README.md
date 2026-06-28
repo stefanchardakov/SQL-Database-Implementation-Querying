@@ -8,6 +8,19 @@ A relational database built entirely in SQL to manage event bookings for a publi
 
 ---
 
+
+## 📋 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Database Schema](#database-schema)
+- [Entity Relationships](#entity-relationships)
+- [Getting Started](#getting-started)
+- [SQL Features Demonstrated](#sql-features-demonstrated)
+- [Sample Queries](#sample-queries)
+- [Data Summary](#data-summary)
+- [References](#references)
+
+---
 ## Schema
 
 Eight normalised tables covering the full lifecycle of a library event.
@@ -26,21 +39,7 @@ Eight normalised tables covering the full lifecycle of a library event.
 | `RoomPayment` | Payments per event — Card, Cash, or Online |
 | `Feedback` | Post-event ratings (1–5) and comments |
 
----
 
-
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Database Schema](#database-schema)
-- [Entity Relationships](#entity-relationships)
-- [Getting Started](#getting-started)
-- [SQL Features Demonstrated](#sql-features-demonstrated)
-- [Sample Queries](#sample-queries)
-- [Data Summary](#data-summary)
-- [References](#references)
-
----
 
 ## Project Overview
 
