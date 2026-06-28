@@ -136,34 +136,3 @@ GROUP BY r.Room_Name
 ORDER BY Total_Earnings DESC;
 ```
 
----
-
-## Data Summary
-
-| Entity | Count |
-|--------|-------|
-| Event Types | 11 |
-| Members | 11 (IDs 100–110) |
-| Staff | 10 |
-| Rooms | 10 |
-| Events | 20 |
-| Bookings | 20 |
-| Payments | 20 (IDs 200–219) |
-| Feedback entries | 20 (IDs 500–519) |
-
-**Booking statuses:** Confirmed · Cancelled · Waitlisted  
-**Payment methods:** Card · Cash · Online  
-**Payment statuses:** Paid · Pending  
-**Member types:** Student · Adult · Senior
-
----
-
-## References
-
-- Connolly, T. and Begg, C. (2015). *Database Systems: A Practical Approach to Design, Implementation, and Management*, 6th edition. Harlow: Pearson. Available at: [www.pearsonglobaleditions.com/connolly](http://www.pearsonglobaleditions.com/connolly)
-
-- Bush, J. (2020). *Learn SQL Database Programming: Query and Manipulate Databases from Popular Relational Database Servers Using SQL*. Packt Publishing. Available at: [https://research.ebsco.com/](https://research.ebsco.com/)
-
----
-
-*Developed as part of a database design and implementation project.*
