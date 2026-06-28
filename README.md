@@ -14,7 +14,6 @@ A relational database built entirely in SQL to manage event bookings for a publi
 - [Project Overview](#project-overview)
 - [Database Schema](#database-schema)
 - [Entity Relationships](#entity-relationships)
-- [Getting Started](#getting-started)
 - [SQL Features Demonstrated](#sql-features-demonstrated)
 - [Sample Queries](#sample-queries)
 
