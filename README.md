@@ -12,7 +12,8 @@ A relational database built in SQL to manage event bookings for a public library
 
 Eight normalised tables covering the full lifecycle of a library event.
 
-![ERD Diagram](erd.png)
+<img width="521" height="254" alt="ERD_executed" src="https://github.com/user-attachments/assets/854197aa-fea2-4259-899d-532a03a8d00e" />
+
 
 | Table | Description |
 |---|---|
