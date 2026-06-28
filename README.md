@@ -21,6 +21,20 @@ A relational database built entirely in SQL to manage event bookings for a publi
 - [References](#references)
 
 ---
+
+## Project Overview
+
+The Lantern Library Event Management System enables a library to:
+
+- Register and categorise library **members** (Student, Adult, Senior)
+- Schedule **events** across multiple room types (talks, workshops, screenings, clubs, etc.)
+- Manage **room bookings** and **staff assignments**
+- Track **event bookings** with status tracking (Confirmed, Cancelled, Waitlisted)
+- Record **payments** with multiple payment methods (Card, Cash, Online)
+- Collect and store post-event **feedback** with ratings (1–5)
+
+
+---
 ## Schema
 
 Eight normalised tables covering the full lifecycle of a library event.
@@ -41,18 +55,7 @@ Eight normalised tables covering the full lifecycle of a library event.
 
 
 
-## Project Overview
 
-The Lantern Library Event Management System enables a library to:
-
-- Register and categorise library **members** (Student, Adult, Senior)
-- Schedule **events** across multiple room types (talks, workshops, screenings, clubs, etc.)
-- Manage **room bookings** and **staff assignments**
-- Track **event bookings** with status tracking (Confirmed, Cancelled, Waitlisted)
-- Record **payments** with multiple payment methods (Card, Cash, Online)
-- Collect and store post-event **feedback** with ratings (1–5)
-
----
 
 
 
