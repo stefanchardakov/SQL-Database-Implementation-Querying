@@ -1,5 +1,5 @@
 # SQL-Database-Implementation-Querying
-# Lantern Library — Events Booking Database
+
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-2ea44f?style=flat-square)
