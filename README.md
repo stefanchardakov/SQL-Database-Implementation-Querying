@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-2ea44f?style=flat-square)
 
-A relational database built in SQL to manage event bookings for a public library. Covers schema design, data population, integrity constraints, and analytical querying.
+A relational database built entirely in SQL to manage event bookings for a public library. Covers schema design, data population, integrity constraints, and analytical querying.
 
 ---
 
